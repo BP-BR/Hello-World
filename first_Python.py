@@ -1,3 +1,3 @@
-#Hello World and good morning
+#Hello World and good day
 print("Hello World!")
-print("Good morning!")
+print("Guten Tag!")
